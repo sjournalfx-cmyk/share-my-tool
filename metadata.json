@@ -1,0 +1,9 @@
+{
+  "name": "Copy of ToolPool",
+  "description": "A P2P tool rental marketplace prototype with AI-powered search using Gemini Maps Grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
